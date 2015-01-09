@@ -11,6 +11,8 @@ gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass'
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
 gem 'devise', '~> 3.4.1'
+gem 'paperclip', github: 'thoughtbot/paperclip'
+# gem 'paperclip', "~> 3.0"-->changed to above due to know issue per Github
 
 group :doc  do
 	gem 'sdoc', require: false
