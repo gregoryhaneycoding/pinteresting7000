@@ -13,6 +13,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin]
 gem 'devise', '~> 3.4.1'
 gem 'paperclip', github: 'thoughtbot/paperclip'
 # gem 'paperclip', "~> 3.0"-->changed to above due to know issue per Github
+gem 'aws-sdk', '~> 1.60.2'
 
 group :doc  do
 	gem 'sdoc', require: false
