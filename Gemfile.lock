@@ -190,7 +190,7 @@ DEPENDENCIES
   pg
   rails (= 4.2.0)
   rails_12factor
-  sass-rails (~> 5.0)
+  sass-rails (~> 5.0.1)
   sdoc
   sqlite3
   turbolinks
