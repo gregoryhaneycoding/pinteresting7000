@@ -15,7 +15,7 @@ gem 'devise', '~> 3.4.1'
 gem 'paperclip', github: 'thoughtbot/paperclip'
 # gem 'paperclip', "~> 3.0"-->changed to above due to know issue per Github
 gem 'aws-sdk', '~> 1.60.2'
-gem 'masonry-rails', '~> 0.2.0'
+gem 'masonry-rails', '~> 0.2.4'
 
 group :doc  do
 	gem 'sdoc', require: false
